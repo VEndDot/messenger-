@@ -1,0 +1,50 @@
+h3{
+    text-align: center;
+}
+body{
+    background-color: rgb(41, 42, 45);
+    font-family: Courier New ;
+    font-style: italic;
+    padding: 0px;
+    margin: 0px;
+}
+.top{
+    height: 50px;
+    background-color: rgb(10, 70, 70);
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.error-block {
+    background-color: #ffcccc;
+    padding: 10px;
+    border: 1px solid #ff0000;
+    border-radius: 5px;
+    width: 50%;
+    margin: 20px auto;
+    font-size: 20px;
+    font-weight: bold;
+}
+input{
+    width: 250px;
+    height: 50px;
+    font-size: 20px;
+}
+
+a{
+    font-size: 20px;
+    color: #00ff00;
+    text-decoration: none;
+}
+
+.search{
+    
+    text-align: center;
+}
+.centered {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+}
